@@ -2,7 +2,7 @@
 export default {
     content: [
         "./index.html",
-        "./src/**/*.{vue,js,ts,jsx,tsx}", // The /**/* is the "Deep Penetration" it needs
+        "./src/**/*.{vue,js,ts,jsx,tsx}", 
     ],
     theme: {
         extend: {},

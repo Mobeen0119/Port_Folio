@@ -133,6 +133,7 @@ export default {
         { name: 'Architecture', icon: 'DSA' },
         { name: 'Logic Systems', icon: 'JS' },
         { name: 'Environment', icon: 'Github' },
+        {name: 'Database',icon: 'DataBase'}
       ]
     }
   }

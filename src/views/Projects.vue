@@ -96,7 +96,9 @@ export default {
       Links: [
         { name: 'Anatomy Explorer', link: 'https://github.com/Mobeen0119/Anaromy_Explorer' },
         { name: 'Blog_So', link: 'https://github.com/Mobeen0119/Blog_So' },
-        { name: 'Memory Web Console (DSA)', link: 'https://github.com/Mobeen0119/Memory_Web/tree/main' }
+        { name: 'Memory Web Console (DSA)', link: 'https://github.com/Mobeen0119/Memory_Web/tree/main' },
+                { name: 'Chirper', link: 'https://github.com/Mobeen0119/Chirper' },
+        { name: 'Medi_Care', link: 'https://github.com/Mobeen0119/Medi_Care' },        
       ]
     }
   },
@@ -108,7 +110,6 @@ export default {
   methods: {
     getProjectLink(title) {
       if (!title) return '#';
-      // Expandable search logic: matches regardless of spaces or underscores
       const normalizedSearch = title.toLowerCase().replace(/[\s_]/g, '');
       const linkMatch = this.Links.find(l => 
         l.name.toLowerCase().replace(/[\s_]/g, '') === normalizedSearch
