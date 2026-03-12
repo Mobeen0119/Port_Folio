@@ -18,10 +18,26 @@
         {
             "id": 3,
             "title": "Memory Web Console (DSA)",
-            "description": "A brutalist, console-based app for testing Data Structures and Algorithms. No UI fluff—just raw logic and memory management.",
+            "description": "A console-based app for testing Data Structures and Algorithms. No UI fluff—just raw logic and memory management.",
             "tech": ["C++", "Algorithms", "DSA"],
             "type": "Console Application",
             "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=400"
+        },
+         {
+            "id": 4,
+            "title": "Medi_Care",
+            "description": "",
+            "tech": ["Angular JS", "JavaScript"],
+            "type": "Frontend / Web App",
+            "image": "https://tse4.mm.bing.net/th/id/OIP.DiVC3eLD30GhCIBMfxgpGgHaC3?pid=Api&h=220&P=0"
+        },
+         {
+            "id": 5,
+            "title": "Chirper",
+            "description": "A Simple Chirper app Where we share our thoughts including Laravel Based.Authentication.",
+            "tech": ["Laravel", "PHP"],
+            "type": "Frontend / Web App",
+            "image": "https://tse4.mm.bing.net/th/id/OIP.pspZ-Hluw4JpTPoIs4dl9QAAAA?pid=Api&h=220&P=0"
         }
     ]
 }
