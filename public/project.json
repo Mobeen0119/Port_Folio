@@ -18,7 +18,7 @@
         {
             "id": 3,
             "title": "Memory Web Console (DSA)",
-            "description": "A console-based app for testing Data Structures and Algorithms.Only logic and memory management.",
+            "description": "A console-based app for testing Data Structures and Algorithms Where we Control our Memories.Only logic and memory management.",
             "tech": ["C++", "Algorithms", "DSA"],
             "type": "Console Application",
             "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=400"
