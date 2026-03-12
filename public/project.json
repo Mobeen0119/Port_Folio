@@ -1,11 +1,11 @@
 {
-    "featured": [{
-            "id": 4,
-            "title": "Anatomy Explorer",
-            "description": "An interactive, visual deep-dive into the human body. Click any part to reveal its technical Information.",
-            "tech": ["HTML", "SVG", "JavaScript"],
-            "type": "Frontend / Interactive",
-            "image": "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?auto=format&fit=crop&q=80&w=400"
+    "featured": [  {
+            "id": 1,
+            "title": "Medi_Care",
+            "description": "A web interface for clinic management with role-based access, allowing doctors and receptionists to perform different tasks based on their permissions.",
+            "tech": ["Angular JS", "JavaScript"],
+            "type": "Frontend / Web App",
+            "image": "https://tse4.mm.bing.net/th/id/OIP.DiVC3eLD30GhCIBMfxgpGgHaC3?pid=Api&h=220&P=0"
         },
         {
             "id": 2,
@@ -22,22 +22,20 @@
             "tech": ["C++", "Algorithms", "DSA"],
             "type": "Console Application",
             "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=400"
-        },
-         {
-            "id": 1,
-            "title": "Medi_Care",
-            "description": "A web interface for clinic management with role-based access, allowing doctors and receptionists to perform different tasks based on their permissions.",
-            "tech": ["Angular JS", "JavaScript"],
-            "type": "Frontend / Web App",
-            "image": "https://tse4.mm.bing.net/th/id/OIP.DiVC3eLD30GhCIBMfxgpGgHaC3?pid=Api&h=220&P=0"
-        },
-         {
+        }, {
             "id": 5,
             "title": "Chirper",
             "description": "A lightweight microblogging web application where users can share short posts. Includes secure user authentication built with Laravel.",
             "tech": ["Laravel", "PHP"],
             "type": "Frontend / Web App",
             "image": "https://tse4.mm.bing.net/th/id/OIP.pspZ-Hluw4JpTPoIs4dl9QAAAA?pid=Api&h=220&P=0"
-        }
+        },{
+            "id": 4,
+            "title": "Anatomy Explorer",
+            "description": "An interactive, visual deep-dive into the human body. Click any part to reveal its technical Information.",
+            "tech": ["HTML", "SVG", "JavaScript"],
+            "type": "Frontend / Interactive",
+            "image": "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?auto=format&fit=crop&q=80&w=400"
+        }   
     ]
 }

@@ -77,7 +77,7 @@
             </h2>
             <div class="space-y-4">
               <p class="text-slate-300 text-base md:text-lg leading-relaxed max-w-md mx-auto lg:mx-0">
-                Software Engineering Student || <span class="text-white border-b-2 border-blue-500/50 pb-0.5">Fundamentals-First</span>. 
+                Software Engineering Student 
               </p>
             </div>
             <div class="pt-4 flex flex-wrap justify-center lg:justify-start gap-3">
