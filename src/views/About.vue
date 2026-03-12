@@ -22,7 +22,7 @@
             <div class="bg-white/2 border border-white/10 p-6 md:p-14 rounded-3xl backdrop-blur-md shadow-2xl">
               <h3 class="text-xl md:text-2xl font-bold mb-4 md:mb-6 text-blue-400">The Mission</h3>
               <p class="text-lg md:text-2xl text-gray-300 leading-relaxed mb-8">
-                I’m a software engineering student focused on <span class="text-white underline decoration-blue-500 underline-offset-4">learning by building</span>on a journey of productivity and fulfillment.
+                I’m a software engineering student focused on <span class="text-white underline decoration-blue-500 underline-offset-4">Learning.</span>On a journey of productivity and fulfillment.
               </p>
               
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 mt-8 md:mt-12">

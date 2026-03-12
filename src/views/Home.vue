@@ -123,7 +123,7 @@ export default {
       name: 'Mobeen Ahmed',
       location: 'Pakistan',
       status: 'Ready To Build',
-      profileImage: 'https://tse1.mm.bing.net/th/id/OIF.6RQD9RISlNbSS9jDNs8VWg?pid=Api&P=0&h=220',
+      profileImage: 'https://static.vecteezy.com/system/resources/previews/009/749/751/original/avatar-man-icon-cartoon-male-profile-mascot-illustration-head-face-business-user-logo-free-vector.jpg',
       socialLinks: {
         github: 'https://github.com/Mobeen0119',
         linkedin: 'https://www.linkedin.com/in/mobeen-ahmed-9a943835a/',
