@@ -72,7 +72,7 @@
           
           <div class="space-y-6 text-center lg:text-left">
             <h2 class="text-3xl md:text-5xl font-black tracking-tighter italic leading-tight text-white uppercase">
-              Crafted <span class="text-blue-500">Interfaces</span>,<br/>
+              Crafted <span class="text-blue-500">Interfaces</span><br/>
             </h2>
             <div class="space-y-4">
               <p class="text-slate-300 text-base md:text-lg leading-relaxed max-w-md mx-auto lg:mx-0">
