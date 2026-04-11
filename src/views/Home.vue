@@ -72,9 +72,8 @@
           
           <div class="space-y-6 text-center lg:text-left">
             <h2 class="text-3xl md:text-5xl font-black tracking-tighter italic leading-tight text-white uppercase">
-              Building for <span class="text-blue-500">Function</span>,<br/>
-              Refining for <span class="bg-linear-to-r from-slate-400 to-slate-100 bg-clip-text text-transparent">Impact</span>.
-            </h2>
+              Building <br/>
+              Refining </h2>
             <div class="space-y-4">
               <p class="text-slate-300 text-base md:text-lg leading-relaxed max-w-md mx-auto lg:mx-0">
                 Software Engineering Student 
