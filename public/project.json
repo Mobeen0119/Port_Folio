@@ -36,13 +36,13 @@
             "tech": ["HTML", "SVG", "JavaScript"],
             "type": "Frontend / Interactive",
             "image": "https://images.unsplash.com/photo-1530210124550-912dc1381cb8?auto=format&fit=crop&q=80&w=400"
-        }   ,
+        } ,
        {
             "id": 5,
             "title": "Booking_Appointment_Service_DB",
             "description": "Database for Booking and Appointmetn service for a specific clinic.",
-            "tech": ["MySql",
+            "tech": ["MySql"],
             "image": "https://tse2.mm.bing.net/th/id/OIP.ZODTaSGBStjYAnEyj6GDZwHaFw?pid=Api&P=0&h=220"
-        } 
+       }
     ]
 }
