@@ -39,8 +39,8 @@
         } ,
        {
             "id": 5,
-            "title": "Booking_Appointment_Service_DB",
-            "description": "Database for Booking and Appointmetn service for a specific clinic.",
+            "title": "Booking Appointment Service",
+            "description": "Database for Booking and Appointment service for a specific clinic.",
             "tech": ["MySql"],
             "type": "Database",
             "image": "https://tse2.mm.bing.net/th/id/OIP.ZODTaSGBStjYAnEyj6GDZwHaFw?pid=Api&P=0&h=220"

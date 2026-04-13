@@ -96,7 +96,7 @@ export default {
         { name: 'Memory Web Console (DSA)', link: 'https://github.com/Mobeen0119/Memory_Web/tree/main' },
         { name: 'Chirper', link: 'https://github.com/Mobeen0119/Chirper' },
         { name: 'Medi_Care', link: 'https://github.com/Mobeen0119/Medi_Care' },
-        { name: 'Booking_Appointment_Database', link: 'https://github.com/Mobeen0119/Booking_Appointment_service'} 
+        { name: 'Booking Appointment Database', link: 'https://github.com/Mobeen0119/Booking_Appointment_service'} 
       ]
     }
   },
