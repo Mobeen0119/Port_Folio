@@ -65,9 +65,6 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                 </svg>
               </a>
-              <div v-else class="text-center py-3 border border-dashed border-white/10 rounded-xl">
-                 <span class="text-[9px] text-slate-600 font-mono uppercase tracking-widest">Internal Build</span>
-              </div>
             </div>
           </div>
         </div>
