@@ -39,7 +39,7 @@
         } ,
        {
             "id": 5,
-            "title": "Booking Appointment Service",
+            "title": "Booking Appointment Database",
             "description": "Database for Booking and Appointment service for a specific clinic.",
             "tech": ["MySql"],
             "type": "Database",
