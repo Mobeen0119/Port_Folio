@@ -44,6 +44,14 @@
             "tech": ["MySql"],
             "type": "Database",
             "image": "https://tse2.mm.bing.net/th/id/OIP.ZODTaSGBStjYAnEyj6GDZwHaFw?pid=Api&P=0&h=220"
+       },
+       {
+            "id": 6,
+            "title": "Aevros",
+            "description": "Kernel that explain itseld",
+            "tech": ["Operating System","Kernel"],
+            "type": "Kernel/low-level",
+            "image": "https://imgs.search.brave.com/_JviuaHGVo4Vkrsw-FA4r8hCCet8sxyarAwtLHtGyuo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDAv/NjAwLzUyMy9zbWFs/bC9CRzU3LmpwZw"
        }
     ]
 }
