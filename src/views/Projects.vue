@@ -119,9 +119,24 @@
                 {{ tech }}
               </span>
             </div>
+             <div class="mt-auto">
+              <a v-if="getProjectLink(project.title) !== '#'"
+                :href="getProjectLink(project.title)"
+                target="_blank"
+                class="w-full relative inline-flex items-center justify-center gap-3 px-6 py-4 rounded-xl bg-gradient-to-r from-[#8B9EFF] to-[#5B7FFF] text-[#050507] font-black text-[10px] uppercase tracking-widest transition-all hover:from-[#A6B8FF] hover:to-[#5B7FFF] hover:shadow-lg hover:shadow-[#5B7FFF]/25">
+                Explore Project
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
       </div>
+          </div>
+        </div>
+      </div>
+
 
       <div class="mt-16 md:mt-24 text-center">
         <router-link to="/"
