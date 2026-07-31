@@ -20,7 +20,7 @@
         </h1>
       </div>
 
-  
+      <!-- Completed projects -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
         <div v-for="(project, index) in completedProjects" :key="project.id"
           class="group relative flex flex-col h-full rounded-3xl border border-white/[0.08] bg-white/[0.035] backdrop-blur-xl transition-all duration-500 hover:border-[#8B9EFF]/50 hover:-translate-y-2">
@@ -71,6 +71,7 @@
         </div>
       </div>
 
+      <!-- In development -->
       <div v-if="inDevelopmentProject" class="mt-20 md:mt-32">
         <div class="mb-10 md:mb-14 space-y-4">
           <div class="flex items-center gap-3 text-[#58D68D] font-mono text-xs md:text-sm tracking-widest uppercase">
@@ -113,15 +114,16 @@
               {{ inDevelopmentProject.description }}
             </p>
 
-            <div class="flex flex-wrap gap-2">
+            <div class="flex flex-wrap gap-2 mb-8">
               <span v-for="tech in inDevelopmentProject.tech" :key="tech"
                 class="text-[9px] font-mono text-[#94A3B8] border border-white/[0.08] px-2 py-1 rounded">
                 {{ tech }}
               </span>
             </div>
-             <div class="mt-auto">
-              <a v-if="getProjectLink(project.title) !== '#'"
-                :href="getProjectLink(project.title)"
+
+            <div class="mt-auto">
+              <a v-if="getProjectLink(inDevelopmentProject.title) !== '#'"
+                :href="getProjectLink(inDevelopmentProject.title)"
                 target="_blank"
                 class="w-full relative inline-flex items-center justify-center gap-3 px-6 py-4 rounded-xl bg-gradient-to-r from-[#8B9EFF] to-[#5B7FFF] text-[#050507] font-black text-[10px] uppercase tracking-widest transition-all hover:from-[#A6B8FF] hover:to-[#5B7FFF] hover:shadow-lg hover:shadow-[#5B7FFF]/25">
                 Explore Project
@@ -133,10 +135,6 @@
           </div>
         </div>
       </div>
-          </div>
-        </div>
-      </div>
-
 
       <div class="mt-16 md:mt-24 text-center">
         <router-link to="/"
